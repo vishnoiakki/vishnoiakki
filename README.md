@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Akhlesh Vishnoi 👋
 
-<!--
-**vishnoiakki/vishnoiakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer with 9+ years of experience in Manual and Automation Testing.
 
-Here are some ideas to get you started:
+🔹 Robot Framework
+🔹 Selenium
+🔹 Appium
+🔹 Python
+🔹 Maestro
+🔹 Manual Testing
+🔹 GitHub Actions
+🔹 API Testing
+🔹 CI/CD
+🔹 SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build scalable automation frameworks for Web and Mobile applications.
+
+Currently exploring:
+• AI-assisted Test Automation
+• Agentic AI
+• Playwright
