@@ -10,7 +10,7 @@ I enjoy solving real-world testing challenges by combining traditional QA practi
 
 ## 👨‍💻 About Me
 
-* 🔹 5+ years of experience in Software Testing
+* 🔹 9+ years of experience in Software Testing
 * 🔹 Expertise in both Manual and Automation Testing
 * 🔹 Strong experience with Web, Mobile (Android & iOS), and API Testing
 * 🔹 Built and maintained automation frameworks using Robot Framework, Selenium, and Appium
