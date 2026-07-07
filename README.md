@@ -2,7 +2,7 @@
 
 ## QA Automation Engineer | Software Test Engineer | Manual & Automation Testing
 
-I'm a Quality Assurance Engineer with **5+ years of experience** in Manual Testing and Test Automation. I specialize in building scalable automation frameworks, improving software quality, and optimizing testing processes for web and mobile applications.
+I'm a Quality Assurance Engineer with **9+ years of experience** in Manual Testing and Test Automation. I specialize in building scalable automation frameworks, improving software quality, and optimizing testing processes for web and mobile applications.
 
 I enjoy solving real-world testing challenges by combining traditional QA practices with modern automation tools and AI-assisted development. My goal is to deliver reliable, high-quality software while reducing manual effort through automation.
 
